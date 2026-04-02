@@ -1,6 +1,6 @@
 # Hi there, I'm Jeremy Koome! 👋
 
-## 📊 Data Scientist/ Analyst | 🐍 Python Developer | 📈 Aspiring Data Scientist
+## 📊 Data Analyst | 🐍 Python Developer | 📈 Aspiring Data Scientist
 
 <div align="center">
   
