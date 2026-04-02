@@ -1,351 +1,313 @@
-# 👋 Hi, I'm Jeremy Koome!
+# Hi there, I'm Jeremy Koome! 👋
 
-### 🎯 Aspiring Data Scientist | Building My Way to the Top 1%
+## 📊 Data Scientist/ Analyst | 🐍 Python Developer | 📈 Aspiring Data Scientist
 
-I'm on a mission to become a world-class data scientist through hands-on projects, competitions, and relentless learning. Currently working through an intensive 18-month roadmap to go from beginner to Kaggle Master.
+<div align="center">
+  
+[![Location](https://img.shields.io/badge/Location-Nairobi%2C%20Kenya-green?style=flat&logo=google-maps&logoColor=white)](https://www.google.com/maps/place/Nairobi)
+[![Email](https://img.shields.io/badge/Email-jeremykoome475%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:jeremykoome475@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/Hcton75?label=Follow&style=social)](https://github.com/Hcton75)
+[![Profile Views](https://komarev.com/ghpvc/?username=Hcton75&color=blue)](https://github.com/Hcton75)
 
-**Week 1 Status:** 4/6 projects complete! 🔥
-
----
-
-## 🚀 What I'm Working On
-
-- 📊 **Week 1 Complete** - Built 4 production-quality projects in 5 days!
-- 🏆 First ML model deployed - 78.7% accuracy on Titanic
-- 📈 7 different visualization types mastered
-- 💡 Learning: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Feature Engineering
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 About Me
 
-**Languages & Libraries:**
-```python
-Python | Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn
-```
+I'm on an **18-month intensive journey** to become a professional Data Scientist, transforming from beginner to job-ready through hands-on projects and real-world problem-solving. I believe in **learning by doing** – every project you see here represents real data, real analysis, and real insights.
 
-**Tools:**
-```
-Jupyter Notebook | Git | GitHub | VS Code
-```
-
-**Currently Mastering:**
-```
-Machine Learning | Feature Engineering | Data Visualization | Statistical Analysis
-```
+- 🔭 **Currently:** Week 2 of my Data Science Bootcamp
+- 🌱 **Learning:** Advanced Pandas, SQL, Time Series Analysis, Data Visualization
+- 🎯 **Goal:** Secure a Data Scientist role by end of 2026
+- 💼 **Approach:** Build 20+ portfolio projects showcasing diverse skills
+- 📈 **Focus:** Turning complex data into actionable business insights
 
 ---
 
-## 📊 Featured Projects
+## 💼 Featured Projects
+
+### 📊 [COVID-19 Global Pandemic Analysis](https://github.com/Hcton75/covid19-pandemic-analysis)
+**Time Series Analysis | Data Visualization | Public Health Analytics**
+
+Comprehensive analysis of global COVID-19 data covering 289 countries over 1,143 days (Jan 2020 - Mar 2023). Uncovered temporal patterns, seasonal trends, and tracked Case Fatality Rate improvements from 6% to 1%.
+
+**Key Achievements:**
+- Analyzed 676M+ cases and 6.9M deaths globally
+- Identified peak pandemic periods and variant-driven waves  
+- Discovered January seasonal pattern across all years
+- Calculated growth rates and rolling averages
+
+**Tech Stack:** `Python` `Pandas` `Matplotlib` `Seaborn` `Time Series Analysis` `Jupyter`
+
+---
+
+### 🛒 [Superstore Sales Analysis](https://github.com/Hcton75/superstore-sales-analysis)
+**Business Intelligence | Customer Analytics | Profitability Analysis**
+
+Deep-dive analysis of retail operations exploring customer behavior, sales patterns, and profitability drivers. Identified key customer segments and product categories driving revenue.
+
+**Key Achievements:**
+- Analyzed 10,000+ transactions across multiple dimensions
+- Performed RFM segmentation for customer targeting
+- Identified most profitable product categories and regions
+- Created actionable recommendations for business growth
+
+**Tech Stack:** `Python` `Pandas` `GroupBy Operations` `Data Visualization` `Business Analytics`
+
+---
+
+### 🚢 [Titanic Survival Prediction](https://github.com/Hcton75/titanic-survival-ml)
+**Machine Learning | Classification | Feature Engineering**
+
+Built predictive models to determine passenger survival on the Titanic using scikit-learn. Achieved strong model performance through careful feature engineering and model selection.
+
+**Key Achievements:**
+- Engineered features from passenger demographics and ticket information
+- Compared multiple algorithms (Logistic Regression, Random Forest, SVM)
+- Achieved [X]% accuracy on test set
+- Analyzed feature importance for survival factors
+
+**Tech Stack:** `Python` `scikit-learn` `Machine Learning` `Classification` `Pandas`
+
+---
+
+### 🎬 [Netflix Content Analysis](https://github.com/Hcton75/netflix-data-analysis)
+**Exploratory Data Analysis | Content Strategy | Trend Analysis**
+
+Exploratory analysis of Netflix's content library, examining trends in content production, genre distribution, and release patterns over time.
+
+**Key Achievements:**
+- Analyzed Netflix's content catalog evolution
+- Identified content production trends and patterns
+- Examined genre distribution and regional content strategy
+- Visualized content growth over multiple years
+
+**Tech Stack:** `Python` `Pandas` `Data Cleaning` `EDA` `Matplotlib`
+
+---
 
 ### 🚗 [Used Cars Price Analysis](https://github.com/Hcton75/used-cars-analysis)
-Analysis of 9,500+ used car listings to understand pricing patterns and market trends
-- **Tech:** Python, Pandas, Matplotlib, Seaborn
-- **Skills:** Data Cleaning, EDA, Statistical Analysis, Visualization
-- **Key Achievement:** Debugged complex pandas view vs copy issues independently
-- **Grade:** A (94/100)
+**Regression Analysis | Price Prediction | Market Analysis**
 
-### 🚢 [Titanic Survival Prediction](https://github.com/Hcton75/titanic-survival-prediction)
-Machine learning model predicting Titanic passenger survival - **78.7% accuracy**
-- **Tech:** Python, Scikit-learn, Pandas, OneHotEncoder, StandardScaler
-- **Skills:** Feature Engineering, ML Classification, Model Evaluation
-- **Key Achievement:** First ML model! Exceeded 75% accuracy target
-- **Grade:** A (92/100)
+Analysis of used car market to understand pricing factors and predict vehicle values based on features like mileage, age, brand, and condition.
 
-### 📺 [Netflix Content Analysis](https://github.com/Hcton75/netflix-visualization-practice)
-Visual analysis of 8,807 Netflix titles with 7 publication-quality visualizations
-- **Tech:** Python, Pandas, Matplotlib, Seaborn
-- **Skills:** Advanced EDA, Statistical Visualization, Data Storytelling
-- **Key Achievement:** Created professional-grade visualizations in 2 days
-- **Grade:** A+ (100/100)
+**Key Achievements:**
+- Cleaned and preprocessed messy automotive dataset
+- Identified key price drivers (brand, mileage, year)
+- Built regression models for price prediction
+- Provided insights for car buyers and sellers
+
+**Tech Stack:** `Python` `Pandas` `Regression Analysis` `Feature Engineering`
 
 ---
 
-## 📈 My Data Science Journey
+## 🛠️ Technical Skills
 
-**March 2026 - Present:** Intensive 18-month roadmap to become a top-tier data scientist
+### **Programming Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### **Week 1 Achievements** ✅
-- ✅ Completed Used Cars price analysis (6 hours)
-- ✅ Built first ML model with 78.7% accuracy (4 hours)
-- ✅ Created 7 different visualization types (6 hours)
-- ✅ Mastered pandas, matplotlib, seaborn, scikit-learn basics
-- ✅ Established professional GitHub portfolio
-- ✅ Learned feature engineering and encoding techniques
-
-### **Upcoming Milestones**
-- 🔄 Week 2: Advanced pandas, multiple datasets, A/B testing
-- 📅 Month 3: First Kaggle competition entry
-- 🎯 Month 6: Kaggle Competitions Expert tier
-- 🏆 Month 12: Kaggle Master tier (target)
-- 💼 Month 18-20: Job-ready portfolio complete
-
----
-
-## 🎓 Learning Path
-
-**Phase 1 (Current - Month 1-3):** Foundation Building
-- Data manipulation with Pandas ✅
-- Statistical analysis ✅
-- Data visualization (matplotlib, seaborn) ✅
-- Basic ML models (Decision Trees) ✅
-- Feature engineering fundamentals 🔄
-
-**Phase 2 (Months 4-6):** Intermediate ML
-- Feature engineering mastery
-- Ensemble methods (Random Forest, XGBoost)
-- Model deployment
-- Kaggle competitions (Bronze/Silver)
-
-**Phase 3 (Months 7-9):** Specialization
-- Deep Learning (TensorFlow/PyTorch)
-- NLP or Computer Vision
-- Advanced feature engineering
-- Kaggle Expert tier
-
-**Phase 4 (Months 10-18):** Mastery
-- MLOps and productionization
-- System design for ML
-- Competition grandmaster techniques
-- Portfolio completion
-
----
-
-## 📚 Currently Learning
-
-**This Week (Week 2):**
-- Advanced pandas (groupby, pivot tables)
-- Multiple dataset handling
-- A/B testing fundamentals
-- Statistical hypothesis testing
-
-**Resources I'm Using:**
-- "Python for Data Analysis" by Wes McKinney (Chapters 1-5)
-- StatQuest (Josh Starmer) - ML concepts
-- Corey Schafer - Python tutorials
-- Kaggle Learn courses
-- Andrew Ng Machine Learning (Coursera)
-
----
-
-## 💪 Skills Demonstrated (Week 1)
-
-### **Data Manipulation**
-- ✅ Pandas DataFrame operations
-- ✅ Data cleaning (missing values, duplicates)
-- ✅ Data type conversion
-- ✅ Feature extraction from text/dates
-- ✅ Column standardization
-
-### **Feature Engineering**
-- ✅ Creating new features (family size from SibSp + Parch)
-- ✅ Missing value imputation (median, mode)
-- ✅ Categorical encoding (OneHotEncoder, Label Encoding)
-- ✅ Feature scaling (StandardScaler)
-- ✅ Feature selection
+### **Data Analysis & Manipulation**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### **Data Visualization**
-- ✅ Line plots (time series)
-- ✅ Bar charts (categorical data)
-- ✅ Histograms (distributions)
-- ✅ Pie charts (proportions)
-- ✅ Box plots (comparisons)
-- ✅ Count plots (frequencies)
-- ✅ Scatter plots (relationships)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 ### **Machine Learning**
-- ✅ Train/test split
-- ✅ Decision Tree Classifier
-- ✅ Model training and prediction
-- ✅ Accuracy evaluation
-- ✅ Confusion matrix analysis
-- ✅ Classification reports
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-### **Professional Practices**
-- ✅ Function creation (DRY principle)
-- ✅ Docstring documentation
-- ✅ Markdown documentation
-- ✅ GitHub workflow
-- ✅ Code organization
-- ✅ Quality standards
+### **Tools & Technologies**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ---
 
-## 📫 Connect With Me
+## 📈 Learning Journey
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeremykoome475@gmail.com)
+### **Current Focus (Week 2-3):**
+- ✅ Advanced Pandas operations (GroupBy, merge, pivot tables)
+- ✅ Time series analysis and forecasting
+- 🔄 SQL fundamentals and database design
+- 🔄 Interactive dashboards with Tableau/Power BI
+- 📅 Statistical analysis and hypothesis testing
 
-📧 **Email:** jeremykoome475@gmail.com  
-📍 **Location:** Nairobi, Kenya  
-🌐 **Portfolio:** Building in progress!  
-💼 **LinkedIn:** Coming soon
+### **Completed Milestones:**
+- ✅ Python fundamentals
+- ✅ Pandas data manipulation
+- ✅ Data visualization (Matplotlib, Seaborn)
+- ✅ Exploratory Data Analysis (EDA)
+- ✅ Machine Learning basics (Classification, Regression)
+- ✅ Git & GitHub version control
+- ✅ Jupyter Notebook workflow
 
----
-
-## 📊 GitHub Stats
-
-![Jeremy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hcton75&show_icons=true&theme=radical&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hcton75&layout=compact&theme=radical)
-
----
-
-## 💪 2026 Goals
-
-**Q1 (Jan-Mar):**
-- [x] Complete Week 1 projects (4/4 done!)
-- [ ] Complete Month 1 curriculum (4 weeks)
-- [ ] Master pandas fundamentals
-- [ ] Build 12+ projects
-
-**Q2 (Apr-Jun):**
-- [ ] Enter first Kaggle competition
-- [ ] Achieve Kaggle Competitions tier
-- [ ] Master intermediate ML algorithms
-- [ ] Build 16+ projects
-
-**Q3-Q4:**
-- [ ] Earn Kaggle Expert tier
-- [ ] Win 3+ hackathons
-- [ ] Build end-to-end ML pipeline
-- [ ] Contribute to open source
-- [ ] Land data science role
+### **Upcoming (Months 2-6):**
+- SQL mastery and database design
+- Advanced statistical analysis
+- Interactive dashboards and BI tools
+- Advanced machine learning algorithms
+- Real-world capstone projects
 
 ---
 
-## 📚 Learning Resources
+## 📊 GitHub Statistics
 
-**Books (Currently Reading):**
-- "Hands-On Machine Learning" by Aurélien Géron
-- "Python for Data Analysis" by Wes McKinney (Chapters 1-5 complete)
+<div align="center">
 
-**Video Courses:**
-- StatQuest (Josh Starmer) - Statistics & ML
-- Corey Schafer - Python, pandas, matplotlib
-- Keith Galli - Real-world data science
-- Andrew Ng - Machine Learning (Coursera)
+![Jeremy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hcton75&show_icons=true&theme=default&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hcton75&layout=compact&theme=default&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hcton75&theme=default&hide_border=true)
+
+</div>
+
+---
+
+## 🎯 2026 Goals
+
+- [ ] Complete 20+ data analysis projects
+- [ ] Master SQL (write 1000+ queries)
+- [ ] Build interactive dashboards (Tableau/Power BI)
+- [ ] Contribute to open-source data science projects
+- [ ] Create a personal portfolio website
+- [ ] Land a Data Scientist role by Q4 2026
+- [ ] Publish data insights on Medium/LinkedIn
+
+---
+
+## 📚 Current Learning Resources
+
+**Courses & Bootcamps:**
+- 18-Month Data Science Intensive Bootcamp
+- SQL Mastery Program
+- Tableau Desktop Specialist Certification (planned)
+
+**Books:**
+- "Python for Data Analysis" by Wes McKinney
+- "Storytelling with Data" by Cole Nussbaumer Knaflic
+- "SQL for Data Analysis" (in progress)
 
 **Practice Platforms:**
-- Kaggle competitions and datasets
-- Personal projects (2 per week)
-- Real-world datasets
+- Kaggle Competitions
+- LeetCode (SQL problems)
+- HackerRank (Data Science track)
 
 ---
 
-## 🎯 Week-by-Week Progress
+## 🌟 What Makes Me Different
 
-### **Week 1 (March 10-16, 2026)** ✅ COMPLETE
-**Projects:**
-1. ✅ Used Cars Analysis (9,535 rows) - Grade: A
-2. ✅ Titanic ML Model (891 passengers) - Grade: A  
-3. ✅ Netflix Visualization (8,807 titles) - Grade: A+
+### **💡 Learning Philosophy:**
+I don't just complete tutorials – I build **real projects with real data** that solve actual problems. Every project in my portfolio represents hours of hands-on work, debugging, and insight extraction.
 
-**Skills Learned:**
-- Data cleaning and preprocessing
-- Feature engineering basics
-- Machine learning fundamentals
-- 7 visualization types
-- GitHub portfolio building
+### **📊 Business-Focused:**
+I don't just analyze data – I translate findings into **actionable business recommendations**. My analyses answer real business questions and drive decision-making.
 
-**Time Invested:** ~20 hours
-**Projects Completed:** 3/6 for the week
+### **🔄 Continuous Improvement:**
+I commit to learning something new every single day. Check my GitHub contribution graph – it tells the story of consistent, dedicated growth.
 
-### **Week 2 (March 17-23, 2026)** 🔄 IN PROGRESS
-**Planned Projects:**
-- Superstore Sales Analysis (GroupBy operations)
-- COVID-19 Data Analysis (Time series)
+### **🎯 Goal-Oriented:**
+Every project brings me one step closer to my goal. I track my progress, measure my growth, and celebrate small wins along the way.
 
 ---
 
-## ⚡ Fun Facts
+## 🤝 Let's Connect!
 
-- 💪 I went from zero to debugging pandas view vs copy issues in my first project!
-- 🚀 Built my first ML model with 78.7% accuracy in Week 1
-- 📊 Created 7 different types of visualizations in 2 days
-- 🔥 Completed 4 production-quality projects in 5 days
-- 🎯 If you can push through the hard stuff on day 1, you can achieve anything!
+I'm always interested in:
+- 📊 Collaborating on data analysis projects
+- 💼 Discussing job opportunities in data analytics
+- 🎓 Connecting with fellow data enthusiasts
+- 💡 Sharing knowledge and learning from others
 
----
+**Reach out to me:**
 
-## 🏆 Recent Achievements
+[![Email](https://img.shields.io/badge/Email-jeremykoome475%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeremykoome475@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Hcton75-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hcton75)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jeremy-koome)
 
-- ✅ **Week 1 Complete** - 4 projects in 5 days (March 10-14, 2026)
-- ✅ **First ML Model** - 78.7% accuracy on Titanic dataset
-- ✅ **7 Visualizations** - Mastered matplotlib & seaborn basics
-- ✅ **GitHub Portfolio** - Professional presence established
-- ✅ **Feature Engineering** - Successfully encoded categorical variables
-- ✅ **Code Quality** - Created reusable functions with docstrings
+*LinkedIn profile coming soon! Building portfolio first.*
 
 ---
 
-## 📈 Current Stats
+## 💼 Available For
 
-**Projects Completed:** 4  
-**Total Datasets Analyzed:** 3 (27,000+ total rows)  
-**Visualization Types Mastered:** 7  
-**ML Models Built:** 1 (Decision Tree)  
-**Highest Accuracy:** 78.7%  
-**Lines of Code Written:** 1,000+  
-**Hours Invested:** 20+ hours in Week 1  
-**GitHub Commits:** 15+  
+- 🔍 **Data Scientist Roles** (Entry-level, Internships)
+- 📊 **Freelance Data Science Projects**
+- 🤝 **Collaboration on Open Source Projects**
+- 📈 **Data Visualization & Dashboard Creation**
+- 🎓 **Peer Learning & Study Groups**
 
 ---
 
-## 🎯 Next Steps
+## 📌 Fun Facts
 
-**This Weekend:**
-- [ ] Complete Netflix Day 3 (final dashboard)
-- [ ] Week 1 review and documentation
-- [ ] Plan Week 2 projects
-
-**Next Week:**
-- [ ] Superstore Sales Analysis (advanced pandas)
-- [ ] COVID-19 Time Series Analysis
-- [ ] A/B testing fundamentals
-- [ ] Statistical hypothesis testing
+- 🌍 Based in Nairobi, Kenya – East Africa's tech hub!
+- 📊 Fascinated by how data reveals hidden patterns in everyday life
+- 🎯 Completed 5 portfolio projects in 2 weeks (and counting!)
+- 💪 Firm believer in "consistency beats intensity"
+- 🚀 Dream: Use data to solve problems that matter to my community
+- ☕ Fueled by coffee and curiosity
 
 ---
 
-## 💡 Learning Philosophy
+## 📝 Latest Blog Posts (Coming Soon!)
 
-> "The expert in anything was once a beginner." - Helen Hayes
+I'm planning to start sharing my data journey through blog posts:
 
-**My Approach:**
-- **Learning by Doing:** 2 projects per week, hands-on practice
-- **Quality Over Speed:** Professional standards from day 1
-- **Public Learning:** Document everything, share progress
-- **Consistent Progress:** Show up daily, build momentum
-- **1% Mindset:** Small improvements compound exponentially
+- 📊 "From Zero to Data Analyst: Week 1-2 Learnings"
+- 🦠 "What 676M COVID-19 Cases Taught Me About Time Series Analysis"
+- 📈 "5 Pandas GroupBy Tricks That Transformed My Analysis"
+- 💡 "Building a Portfolio: Why Projects Beat Certificates"
 
-**Principle:** Build real projects → Document learnings → Share publicly → Repeat
+*Stay tuned!*
 
 ---
 
-## 🌟 What Makes This Journey Different
+## 🏆 Achievements
 
-**Not just tutorials** - Building real projects  
-**Not just theory** - Hands-on implementation  
-**Not just code** - Professional documentation  
-**Not just learning** - Building portfolio  
-**Not just watching** - Creating and sharing  
-
-**Goal:** 18 months to Kaggle Master, job-ready portfolio, and top 1% skills
+- ✅ **5 Complete Projects** in first 2 weeks
+- ✅ **Professional GitHub Portfolio** established
+- ✅ **1000+ lines of production code** written
+- ✅ **Time Series Analysis** mastered
+- ✅ **Machine Learning Models** deployed
+- ✅ **Data Visualization** expertise developed
 
 ---
 
 <div align="center">
 
-### 🌟 "Done is better than perfect. But done well is better than done."
+### 💭 Quote I Live By
 
-**Let's connect and grow together!**
-
-![Profile Views](https://komarev.com/ghpvc/?username=Hcton75&color=brightgreen)
+*"Data is the new oil, but insights are the refined fuel that powers decisions."*
 
 ---
 
-**📅 Last Updated:** March 14, 2026  
-**🔥 Current Streak:** 5 days  
-**📊 Week 1:** Complete (4/4 projects)  
-**🎯 Next Milestone:** Week 2 projects
+### 🎯 My Commitment
+
+**I commit to showing up every single day, writing code, analyzing data, and building projects that showcase my growing skills. This GitHub profile is my public journal of transformation from beginner to professional Data Analyst.**
+
+---
+
+**Thanks for visiting my profile! ⭐ Star my repositories if you find them useful!**
+
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+**Last Updated:** March 2026  
+**Projects Completed:** 5  
+**Current Streak:** Building every day  
+**Next Milestone:** 10 projects by end of Month 1
 
 </div>
